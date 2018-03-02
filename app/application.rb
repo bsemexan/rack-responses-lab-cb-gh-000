@@ -5,3 +5,5 @@ class Application
     resp.write "Good Morning!"
     resp.write "Good Afternoon!"
   end
+
+end
